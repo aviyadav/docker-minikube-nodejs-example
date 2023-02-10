@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=CfPRbdT-wXo
+
+
+
+https://github.com/shazforiot/nodeapp_test
+
+
+
+npm init
+npm install -g npm@9.4.2
+npm install express -g / npm install express --save
+node index.js
+
+docker build -t docker101tutorial/nodeapp .
+docker images
